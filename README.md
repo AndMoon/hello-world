@@ -1,2 +1,5 @@
 # hello-world
-The first step and first repository which i come to the GITHUB
+
+Hi Humans!
+
+Charles here, want to start an new travel to te world.
